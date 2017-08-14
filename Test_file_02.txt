@@ -1,1 +1,6 @@
 Das ist mein neuer Text1
+Text 2
+
+Text 3
+
+Text 4

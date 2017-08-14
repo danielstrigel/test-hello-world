@@ -1,4 +1,4 @@
-Das ist mein neuer Text1
+
 Text 2.1
 Text 2.3
 -----------------
